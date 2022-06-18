@@ -1,0 +1,20 @@
+﻿Work Breakdown Agreement
+
+
+Task Division:
+1. We will be discussing and analysing the codes from project together
+2. Each person will be responsible for 1 design artefact
+* Stanley - UML Class Diagrams
+* Rachel - Sequence Diagram
+* Deeksha - Design Rationale
+3. Each deliverable needs to be completed by 7th September, 10am 
+4. Reviewing and Testing of the Design Artefacts
+   1. UML Class Diagrams - Deeksha and Rachel
+   2. Sequence Diagram - Stanley and Deeksha
+   3. Design Rationale - Stanley and Rachel
+
+
+Agreements :
+I accept this WBA - Deeksha
+I accept this WBA - Stanley Ng
+I accept this WBA - Rachel (Toh Xiao Ying)
